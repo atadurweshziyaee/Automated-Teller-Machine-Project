@@ -46,8 +46,8 @@ CREATE TABLE users (
 ```
 4️⃣ Run the application – You can either use an IDE (like IntelliJ IDEA) or compile the code from the command line to run the application.
 
-💡 Conclusion
+## 💡 Conclusion
 The Banking Management System (ATM) offers a simple yet secure way to manage banking operations, providing essential features like withdrawals, deposits, and balance checking. This system is ideal for simulating real-world ATM functionalities, focusing on data security, simplicity, and user experience. 🏦✨
 
-🤝 Contribute & Improve! 🚀
+## 🤝 Contribute & Improve! 🚀
 Want to enhance this project? Fork the repo, add improvements, and submit a pull request! 💡
