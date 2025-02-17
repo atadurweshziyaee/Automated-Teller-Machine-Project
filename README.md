@@ -20,10 +20,10 @@ The **Banking Management System (ATM)** is designed to manage basic banking oper
 
 | Technology | Purpose |
 |------------|---------|
-| ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) **Java** | Core logic using OOP principles for backend operations. |
-| ![Swing](https://upload.wikimedia.org/wikipedia/commons/7/76/Swing-logo.png) **GUI (Swing, AWT)** | Graphical user interface for user interaction. |
-| ![MySQL](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/128px-MySQL.svg.png) **MySQL** | Database for storing user and transaction details. |
-| ![IntelliJ IDEA](https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg) **IntelliJ IDEA** | Development & debugging environment for Java code. |
+| **Java** | Core logic using OOP principles for backend operations. |
+| **GUI (Swing, AWT)** | Graphical user interface for user interaction. |
+| **MySQL** | Database for storing user and transaction details. |
+| **IntelliJ IDEA** | Development & debugging environment for Java code. |
 
 ---
 
