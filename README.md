@@ -31,8 +31,10 @@ The **Banking Management System (ATM)** is designed to manage basic banking oper
 1️⃣ **Clone the repository**:
 ```bash
  git clone https://github.com/atadurweshziyaee/BankingManagementSystem.git
+```
 2️⃣ Install Java Development Kit (JDK) – Make sure JDK 8 or higher is installed.
 3️⃣ Install MySQL – Set up the database and create the necessary tables:
+```
 CREATE DATABASE banking_system;
 USE banking_system;
 CREATE TABLE users (
@@ -41,6 +43,7 @@ CREATE TABLE users (
     pin VARCHAR(4) NOT NULL,
     balance DECIMAL(10, 2) DEFAULT 0.00
 );
+```
 4️⃣ Run the application – You can either use an IDE (like IntelliJ IDEA) or compile the code from the command line to run the application.
 
 💡 Conclusion
@@ -48,6 +51,3 @@ The Banking Management System (ATM) offers a simple yet secure way to manage ban
 
 🤝 Contribute & Improve! 🚀
 Want to enhance this project? Fork the repo, add improvements, and submit a pull request! 💡
-
-
-You can copy this entire content in one go. Let me know if anything else is needed!
